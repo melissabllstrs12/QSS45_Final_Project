@@ -1,0 +1,261 @@
+"Notes","State of Residence","State of Residence Code","2023 Metro/Nonmetro","2023 Metro/Nonmetro Code","Mother's Hispanic Origin","Mother's Hispanic Origin Code","Source of Payment for Delivery","Source of Payment for Delivery Code","Maternal Morbidity Checked","Maternal Morbidity Checked Code",Births
+,"Alabama","01","Metro","Metro","Hispanic or Latino","2135-2","Medicaid","1","At least one checked","0",155
+,"Alabama","01","Metro","Metro","Hispanic or Latino","2135-2","Medicaid","1","None checked","1",9600
+,"Alabama","01","Metro","Metro","Hispanic or Latino","2135-2","Private Insurance","2","At least one checked","0",76
+,"Alabama","01","Metro","Metro","Hispanic or Latino","2135-2","Private Insurance","2","None checked","1",5962
+,"Alabama","01","Metro","Metro","Hispanic or Latino","2135-2","Self Pay","3","At least one checked","0",23
+,"Alabama","01","Metro","Metro","Hispanic or Latino","2135-2","Self Pay","3","None checked","1",977
+,"Alabama","01","Metro","Metro","Hispanic or Latino","2135-2","Other","4","At least one checked","0",46
+,"Alabama","01","Metro","Metro","Hispanic or Latino","2135-2","Other","4","None checked","1",2281
+,"Alabama","01","Metro","Metro","Hispanic or Latino","2135-2","Unknown or Not Stated","9","None checked","1",15
+,"Alabama","01","Metro","Metro","Not Hispanic or Latino","2186-5","Medicaid","1","At least one checked","0",533
+,"Alabama","01","Metro","Metro","Not Hispanic or Latino","2186-5","Medicaid","1","None checked","1",47893
+,"Alabama","01","Metro","Metro","Not Hispanic or Latino","2186-5","Private Insurance","2","At least one checked","0",1211
+,"Alabama","01","Metro","Metro","Not Hispanic or Latino","2186-5","Private Insurance","2","None checked","1",79088
+,"Alabama","01","Metro","Metro","Not Hispanic or Latino","2186-5","Self Pay","3","At least one checked","0",65
+,"Alabama","01","Metro","Metro","Not Hispanic or Latino","2186-5","Self Pay","3","None checked","1",2926
+,"Alabama","01","Metro","Metro","Not Hispanic or Latino","2186-5","Other","4","At least one checked","0",73
+,"Alabama","01","Metro","Metro","Not Hispanic or Latino","2186-5","Other","4","None checked","1",4599
+,"Alabama","01","Metro","Metro","Not Hispanic or Latino","2186-5","Unknown or Not Stated","9","None checked","1",48
+,"Alabama","01","Metro","Metro","Unknown or Not Stated","9","Private Insurance","2","None checked","1",19
+,"Alabama","01","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Medicaid","1","At least one checked","0",43
+,"Alabama","01","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Medicaid","1","None checked","1",3579
+,"Alabama","01","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Private Insurance","2","At least one checked","0",13
+,"Alabama","01","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Private Insurance","2","None checked","1",1385
+,"Alabama","01","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Self Pay","3","None checked","1",236
+,"Alabama","01","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Other","4","At least one checked","0",15
+,"Alabama","01","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Other","4","None checked","1",958
+,"Alabama","01","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Medicaid","1","At least one checked","0",199
+,"Alabama","01","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Medicaid","1","None checked","1",17946
+,"Alabama","01","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Private Insurance","2","At least one checked","0",226
+,"Alabama","01","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Private Insurance","2","None checked","1",17860
+,"Alabama","01","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Self Pay","3","None checked","1",739
+,"Alabama","01","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Other","4","At least one checked","0",17
+,"Alabama","01","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Other","4","None checked","1",1581
+,"Alabama","01","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Unknown or Not Stated","9","None checked","1",20
+,"California","06","Metro","Metro","Hispanic or Latino","2135-2","Medicaid","1","At least one checked","0",3131
+,"California","06","Metro","Metro","Hispanic or Latino","2135-2","Medicaid","1","None checked","1",372982
+,"California","06","Metro","Metro","Hispanic or Latino","2135-2","Medicaid","1","Unknown or Not Stated","9",513
+,"California","06","Metro","Metro","Hispanic or Latino","2135-2","Private Insurance","2","At least one checked","0",2496
+,"California","06","Metro","Metro","Hispanic or Latino","2135-2","Private Insurance","2","None checked","1",247249
+,"California","06","Metro","Metro","Hispanic or Latino","2135-2","Private Insurance","2","Unknown or Not Stated","9",128
+,"California","06","Metro","Metro","Hispanic or Latino","2135-2","Self Pay","3","At least one checked","0",69
+,"California","06","Metro","Metro","Hispanic or Latino","2135-2","Self Pay","3","None checked","1",9530
+,"California","06","Metro","Metro","Hispanic or Latino","2135-2","Self Pay","3","Unknown or Not Stated","9",218
+,"California","06","Metro","Metro","Hispanic or Latino","2135-2","Other","4","At least one checked","0",264
+,"California","06","Metro","Metro","Hispanic or Latino","2135-2","Other","4","None checked","1",26974
+,"California","06","Metro","Metro","Hispanic or Latino","2135-2","Other","4","Unknown or Not Stated","9",38
+,"California","06","Metro","Metro","Hispanic or Latino","2135-2","Unknown or Not Stated","9","At least one checked","0",40
+,"California","06","Metro","Metro","Hispanic or Latino","2135-2","Unknown or Not Stated","9","None checked","1",2657
+,"California","06","Metro","Metro","Hispanic or Latino","2135-2","Unknown or Not Stated","9","Unknown or Not Stated","9",89
+,"California","06","Metro","Metro","Not Hispanic or Latino","2186-5","Medicaid","1","At least one checked","0",1744
+,"California","06","Metro","Metro","Not Hispanic or Latino","2186-5","Medicaid","1","None checked","1",153950
+,"California","06","Metro","Metro","Not Hispanic or Latino","2186-5","Medicaid","1","Unknown or Not Stated","9",184
+,"California","06","Metro","Metro","Not Hispanic or Latino","2186-5","Private Insurance","2","At least one checked","0",8593
+,"California","06","Metro","Metro","Not Hispanic or Latino","2186-5","Private Insurance","2","None checked","1",427521
+,"California","06","Metro","Metro","Not Hispanic or Latino","2186-5","Private Insurance","2","Unknown or Not Stated","9",185
+,"California","06","Metro","Metro","Not Hispanic or Latino","2186-5","Self Pay","3","At least one checked","0",216
+,"California","06","Metro","Metro","Not Hispanic or Latino","2186-5","Self Pay","3","None checked","1",21284
+,"California","06","Metro","Metro","Not Hispanic or Latino","2186-5","Self Pay","3","Unknown or Not Stated","9",622
+,"California","06","Metro","Metro","Not Hispanic or Latino","2186-5","Other","4","At least one checked","0",448
+,"California","06","Metro","Metro","Not Hispanic or Latino","2186-5","Other","4","None checked","1",25237
+,"California","06","Metro","Metro","Not Hispanic or Latino","2186-5","Other","4","Unknown or Not Stated","9",52
+,"California","06","Metro","Metro","Not Hispanic or Latino","2186-5","Unknown or Not Stated","9","At least one checked","0",131
+,"California","06","Metro","Metro","Not Hispanic or Latino","2186-5","Unknown or Not Stated","9","None checked","1",4058
+,"California","06","Metro","Metro","Not Hispanic or Latino","2186-5","Unknown or Not Stated","9","Unknown or Not Stated","9",120
+,"California","06","Metro","Metro","Unknown or Not Stated","9","Medicaid","1","At least one checked","0",139
+,"California","06","Metro","Metro","Unknown or Not Stated","9","Medicaid","1","None checked","1",11085
+,"California","06","Metro","Metro","Unknown or Not Stated","9","Medicaid","1","Unknown or Not Stated","9",33
+,"California","06","Metro","Metro","Unknown or Not Stated","9","Private Insurance","2","At least one checked","0",609
+,"California","06","Metro","Metro","Unknown or Not Stated","9","Private Insurance","2","None checked","1",29395
+,"California","06","Metro","Metro","Unknown or Not Stated","9","Private Insurance","2","Unknown or Not Stated","9",23
+,"California","06","Metro","Metro","Unknown or Not Stated","9","Self Pay","3","At least one checked","0",18
+,"California","06","Metro","Metro","Unknown or Not Stated","9","Self Pay","3","None checked","1",1908
+,"California","06","Metro","Metro","Unknown or Not Stated","9","Self Pay","3","Unknown or Not Stated","9",42
+,"California","06","Metro","Metro","Unknown or Not Stated","9","Other","4","At least one checked","0",41
+,"California","06","Metro","Metro","Unknown or Not Stated","9","Other","4","None checked","1",2461
+,"California","06","Metro","Metro","Unknown or Not Stated","9","Other","4","Unknown or Not Stated","9",13
+,"California","06","Metro","Metro","Unknown or Not Stated","9","Unknown or Not Stated","9","None checked","1",388
+,"California","06","Metro","Metro","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",49
+,"California","06","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Medicaid","1","At least one checked","0",99
+,"California","06","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Medicaid","1","None checked","1",4900
+,"California","06","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Private Insurance","2","At least one checked","0",44
+,"California","06","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Private Insurance","2","None checked","1",2154
+,"California","06","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Self Pay","3","None checked","1",106
+,"California","06","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Other","4","None checked","1",303
+,"California","06","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Unknown or Not Stated","9","None checked","1",26
+,"California","06","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Medicaid","1","At least one checked","0",113
+,"California","06","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Medicaid","1","None checked","1",7149
+,"California","06","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Medicaid","1","Unknown or Not Stated","9",11
+,"California","06","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Private Insurance","2","At least one checked","0",151
+,"California","06","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Private Insurance","2","None checked","1",7936
+,"California","06","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Self Pay","3","None checked","1",733
+,"California","06","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Self Pay","3","Unknown or Not Stated","9",15
+,"California","06","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Other","4","At least one checked","0",16
+,"California","06","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Other","4","None checked","1",690
+,"California","06","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Unknown or Not Stated","9","None checked","1",115
+,"California","06","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Unknown or Not Stated","9","Unknown or Not Stated","9",10
+,"California","06","Nonmetro","Nonmetro","Unknown or Not Stated","9","Medicaid","1","At least one checked","0",10
+,"California","06","Nonmetro","Nonmetro","Unknown or Not Stated","9","Medicaid","1","None checked","1",209
+,"California","06","Nonmetro","Nonmetro","Unknown or Not Stated","9","Private Insurance","2","None checked","1",251
+,"California","06","Nonmetro","Nonmetro","Unknown or Not Stated","9","Self Pay","3","None checked","1",46
+,"California","06","Nonmetro","Nonmetro","Unknown or Not Stated","9","Other","4","None checked","1",20
+,"Nebraska","31","Metro","Metro","Hispanic or Latino","2135-2","Medicaid","1","At least one checked","0",152
+,"Nebraska","31","Metro","Metro","Hispanic or Latino","2135-2","Medicaid","1","None checked","1",8321
+,"Nebraska","31","Metro","Metro","Hispanic or Latino","2135-2","Medicaid","1","Unknown or Not Stated","9",20
+,"Nebraska","31","Metro","Metro","Hispanic or Latino","2135-2","Private Insurance","2","At least one checked","0",58
+,"Nebraska","31","Metro","Metro","Hispanic or Latino","2135-2","Private Insurance","2","None checked","1",3268
+,"Nebraska","31","Metro","Metro","Hispanic or Latino","2135-2","Self Pay","3","At least one checked","0",18
+,"Nebraska","31","Metro","Metro","Hispanic or Latino","2135-2","Self Pay","3","None checked","1",653
+,"Nebraska","31","Metro","Metro","Hispanic or Latino","2135-2","Other","4","At least one checked","0",11
+,"Nebraska","31","Metro","Metro","Hispanic or Latino","2135-2","Other","4","None checked","1",264
+,"Nebraska","31","Metro","Metro","Hispanic or Latino","2135-2","Unknown or Not Stated","9","None checked","1",49
+,"Nebraska","31","Metro","Metro","Not Hispanic or Latino","2186-5","Medicaid","1","At least one checked","0",221
+,"Nebraska","31","Metro","Metro","Not Hispanic or Latino","2186-5","Medicaid","1","None checked","1",12581
+,"Nebraska","31","Metro","Metro","Not Hispanic or Latino","2186-5","Medicaid","1","Unknown or Not Stated","9",15
+,"Nebraska","31","Metro","Metro","Not Hispanic or Latino","2186-5","Private Insurance","2","At least one checked","0",460
+,"Nebraska","31","Metro","Metro","Not Hispanic or Latino","2186-5","Private Insurance","2","None checked","1",27909
+,"Nebraska","31","Metro","Metro","Not Hispanic or Latino","2186-5","Private Insurance","2","Unknown or Not Stated","9",11
+,"Nebraska","31","Metro","Metro","Not Hispanic or Latino","2186-5","Self Pay","3","At least one checked","0",15
+,"Nebraska","31","Metro","Metro","Not Hispanic or Latino","2186-5","Self Pay","3","None checked","1",871
+,"Nebraska","31","Metro","Metro","Not Hispanic or Latino","2186-5","Other","4","At least one checked","0",53
+,"Nebraska","31","Metro","Metro","Not Hispanic or Latino","2186-5","Other","4","None checked","1",1779
+,"Nebraska","31","Metro","Metro","Not Hispanic or Latino","2186-5","Unknown or Not Stated","9","None checked","1",163
+,"Nebraska","31","Metro","Metro","Unknown or Not Stated","9","Medicaid","1","None checked","1",16
+,"Nebraska","31","Metro","Metro","Unknown or Not Stated","9","Private Insurance","2","None checked","1",12
+,"Nebraska","31","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Medicaid","1","At least one checked","0",83
+,"Nebraska","31","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Medicaid","1","None checked","1",3695
+,"Nebraska","31","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Private Insurance","2","At least one checked","0",33
+,"Nebraska","31","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Private Insurance","2","None checked","1",1719
+,"Nebraska","31","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Self Pay","3","None checked","1",176
+,"Nebraska","31","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Other","4","None checked","1",34
+,"Nebraska","31","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Unknown or Not Stated","9","None checked","1",89
+,"Nebraska","31","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Medicaid","1","At least one checked","0",154
+,"Nebraska","31","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Medicaid","1","None checked","1",6348
+,"Nebraska","31","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Private Insurance","2","At least one checked","0",307
+,"Nebraska","31","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Private Insurance","2","None checked","1",14706
+,"Nebraska","31","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Self Pay","3","At least one checked","0",14
+,"Nebraska","31","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Self Pay","3","None checked","1",541
+,"Nebraska","31","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Other","4","None checked","1",304
+,"Nebraska","31","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Unknown or Not Stated","9","None checked","1",160
+,"New Hampshire","33","Metro","Metro","Hispanic or Latino","2135-2","Medicaid","1","At least one checked","0",18
+,"New Hampshire","33","Metro","Metro","Hispanic or Latino","2135-2","Medicaid","1","None checked","1",919
+,"New Hampshire","33","Metro","Metro","Hispanic or Latino","2135-2","Private Insurance","2","At least one checked","0",37
+,"New Hampshire","33","Metro","Metro","Hispanic or Latino","2135-2","Private Insurance","2","None checked","1",1207
+,"New Hampshire","33","Metro","Metro","Hispanic or Latino","2135-2","Self Pay","3","At least one checked","0",18
+,"New Hampshire","33","Metro","Metro","Hispanic or Latino","2135-2","Self Pay","3","None checked","1",176
+,"New Hampshire","33","Metro","Metro","Hispanic or Latino","2135-2","Other","4","None checked","1",257
+,"New Hampshire","33","Metro","Metro","Not Hispanic or Latino","2186-5","Medicaid","1","At least one checked","0",129
+,"New Hampshire","33","Metro","Metro","Not Hispanic or Latino","2186-5","Medicaid","1","None checked","1",3896
+,"New Hampshire","33","Metro","Metro","Not Hispanic or Latino","2186-5","Medicaid","1","Unknown or Not Stated","9",14
+,"New Hampshire","33","Metro","Metro","Not Hispanic or Latino","2186-5","Private Insurance","2","At least one checked","0",630
+,"New Hampshire","33","Metro","Metro","Not Hispanic or Latino","2186-5","Private Insurance","2","None checked","1",18925
+,"New Hampshire","33","Metro","Metro","Not Hispanic or Latino","2186-5","Private Insurance","2","Unknown or Not Stated","9",45
+,"New Hampshire","33","Metro","Metro","Not Hispanic or Latino","2186-5","Self Pay","3","At least one checked","0",17
+,"New Hampshire","33","Metro","Metro","Not Hispanic or Latino","2186-5","Self Pay","3","None checked","1",560
+,"New Hampshire","33","Metro","Metro","Not Hispanic or Latino","2186-5","Other","4","At least one checked","0",17
+,"New Hampshire","33","Metro","Metro","Not Hispanic or Latino","2186-5","Other","4","None checked","1",507
+,"New Hampshire","33","Metro","Metro","Not Hispanic or Latino","2186-5","Unknown or Not Stated","9","None checked","1",137
+,"New Hampshire","33","Metro","Metro","Not Hispanic or Latino","2186-5","Unknown or Not Stated","9","Unknown or Not Stated","9",11
+,"New Hampshire","33","Metro","Metro","Unknown or Not Stated","9","Medicaid","1","None checked","1",29
+,"New Hampshire","33","Metro","Metro","Unknown or Not Stated","9","Private Insurance","2","None checked","1",155
+,"New Hampshire","33","Metro","Metro","Unknown or Not Stated","9","Self Pay","3","None checked","1",13
+,"New Hampshire","33","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Medicaid","1","None checked","1",150
+,"New Hampshire","33","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Private Insurance","2","At least one checked","0",12
+,"New Hampshire","33","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Private Insurance","2","None checked","1",233
+,"New Hampshire","33","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Self Pay","3","None checked","1",50
+,"New Hampshire","33","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Other","4","None checked","1",20
+,"New Hampshire","33","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Medicaid","1","At least one checked","0",71
+,"New Hampshire","33","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Medicaid","1","None checked","1",3350
+,"New Hampshire","33","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Private Insurance","2","At least one checked","0",261
+,"New Hampshire","33","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Private Insurance","2","None checked","1",8493
+,"New Hampshire","33","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Private Insurance","2","Unknown or Not Stated","9",14
+,"New Hampshire","33","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Self Pay","3","At least one checked","0",19
+,"New Hampshire","33","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Self Pay","3","None checked","1",529
+,"New Hampshire","33","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Other","4","At least one checked","0",18
+,"New Hampshire","33","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Other","4","None checked","1",349
+,"New Hampshire","33","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Unknown or Not Stated","9","None checked","1",91
+,"New Hampshire","33","Nonmetro","Nonmetro","Unknown or Not Stated","9","Medicaid","1","None checked","1",26
+,"New Hampshire","33","Nonmetro","Nonmetro","Unknown or Not Stated","9","Private Insurance","2","None checked","1",42
+,"New Hampshire","33","Nonmetro","Nonmetro","Unknown or Not Stated","9","Self Pay","3","None checked","1",14
+,"Texas","48","Metro","Metro","Hispanic or Latino","2135-2","Medicaid","1","At least one checked","0",2940
+,"Texas","48","Metro","Metro","Hispanic or Latino","2135-2","Medicaid","1","None checked","1",363317
+,"Texas","48","Metro","Metro","Hispanic or Latino","2135-2","Private Insurance","2","At least one checked","0",1506
+,"Texas","48","Metro","Metro","Hispanic or Latino","2135-2","Private Insurance","2","None checked","1",188695
+,"Texas","48","Metro","Metro","Hispanic or Latino","2135-2","Self Pay","3","At least one checked","0",290
+,"Texas","48","Metro","Metro","Hispanic or Latino","2135-2","Self Pay","3","None checked","1",44340
+,"Texas","48","Metro","Metro","Hispanic or Latino","2135-2","Other","4","At least one checked","0",32
+,"Texas","48","Metro","Metro","Hispanic or Latino","2135-2","Other","4","None checked","1",4434
+,"Texas","48","Metro","Metro","Hispanic or Latino","2135-2","Unknown or Not Stated","9","At least one checked","0",80
+,"Texas","48","Metro","Metro","Hispanic or Latino","2135-2","Unknown or Not Stated","9","None checked","1",9500
+,"Texas","48","Metro","Metro","Not Hispanic or Latino","2186-5","Medicaid","1","At least one checked","0",1509
+,"Texas","48","Metro","Metro","Not Hispanic or Latino","2186-5","Medicaid","1","None checked","1",175350
+,"Texas","48","Metro","Metro","Not Hispanic or Latino","2186-5","Private Insurance","2","At least one checked","0",3543
+,"Texas","48","Metro","Metro","Not Hispanic or Latino","2186-5","Private Insurance","2","None checked","1",372022
+,"Texas","48","Metro","Metro","Not Hispanic or Latino","2186-5","Self Pay","3","At least one checked","0",361
+,"Texas","48","Metro","Metro","Not Hispanic or Latino","2186-5","Self Pay","3","None checked","1",31467
+,"Texas","48","Metro","Metro","Not Hispanic or Latino","2186-5","Other","4","At least one checked","0",32
+,"Texas","48","Metro","Metro","Not Hispanic or Latino","2186-5","Other","4","None checked","1",2680
+,"Texas","48","Metro","Metro","Not Hispanic or Latino","2186-5","Unknown or Not Stated","9","At least one checked","0",200
+,"Texas","48","Metro","Metro","Not Hispanic or Latino","2186-5","Unknown or Not Stated","9","None checked","1",18752
+,"Texas","48","Metro","Metro","Unknown or Not Stated","9","Medicaid","1","At least one checked","0",27
+,"Texas","48","Metro","Metro","Unknown or Not Stated","9","Medicaid","1","None checked","1",1879
+,"Texas","48","Metro","Metro","Unknown or Not Stated","9","Private Insurance","2","At least one checked","0",38
+,"Texas","48","Metro","Metro","Unknown or Not Stated","9","Private Insurance","2","None checked","1",2192
+,"Texas","48","Metro","Metro","Unknown or Not Stated","9","Self Pay","3","None checked","1",309
+,"Texas","48","Metro","Metro","Unknown or Not Stated","9","Other","4","None checked","1",45
+,"Texas","48","Metro","Metro","Unknown or Not Stated","9","Unknown or Not Stated","9","None checked","1",80
+,"Texas","48","Metro","Metro","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",26
+,"Texas","48","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Medicaid","1","At least one checked","0",409
+,"Texas","48","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Medicaid","1","None checked","1",33926
+,"Texas","48","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Private Insurance","2","At least one checked","0",150
+,"Texas","48","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Private Insurance","2","None checked","1",14232
+,"Texas","48","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Self Pay","3","At least one checked","0",36
+,"Texas","48","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Self Pay","3","None checked","1",3697
+,"Texas","48","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Other","4","None checked","1",362
+,"Texas","48","Nonmetro","Nonmetro","Hispanic or Latino","2135-2","Unknown or Not Stated","9","None checked","1",336
+,"Texas","48","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Medicaid","1","At least one checked","0",278
+,"Texas","48","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Medicaid","1","None checked","1",29703
+,"Texas","48","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Private Insurance","2","At least one checked","0",309
+,"Texas","48","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Private Insurance","2","None checked","1",30960
+,"Texas","48","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Self Pay","3","At least one checked","0",52
+,"Texas","48","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Self Pay","3","None checked","1",4923
+,"Texas","48","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Other","4","None checked","1",392
+,"Texas","48","Nonmetro","Nonmetro","Not Hispanic or Latino","2186-5","Unknown or Not Stated","9","None checked","1",651
+,"Texas","48","Nonmetro","Nonmetro","Unknown or Not Stated","9","Medicaid","1","None checked","1",128
+,"Texas","48","Nonmetro","Nonmetro","Unknown or Not Stated","9","Private Insurance","2","None checked","1",93
+,"Texas","48","Nonmetro","Nonmetro","Unknown or Not Stated","9","Self Pay","3","None checked","1",27
+"---"
+"Dataset: Provisional Natality, 2023 through Last Month"
+"Query Parameters:"
+"State of Residence: Alabama (01); California (06); Nebraska (31); New Hampshire (33); Texas (48)"
+"Group By: State of Residence; 2023 Metro/Nonmetro; Mother's Hispanic Origin; Source of Payment for Delivery; Maternal Morbidity"
+"Checked"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality-provisional.html for more information."
+"---"
+"Query Date: Aug 22, 2026 9:30:11 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Natality on CDC WONDER Online Database. Data are from the Natality Records 2023 through Last Month, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/natality-expanded-provisional.html on Aug 22, 2026 9:30:11 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Births are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality-provisional.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."
+"3. 2025 data are provisional and subject to change. 2023-2024 data are final."
+"4. Births occurring through 2026 through June 30, 2026 as of July 27, 2026."
+"5. 2023 Urbanization and Metro/Nonmetro categories are not available for Natality before year 2023."
+"6. Some counties are not classified in 2023 Urbanization scheme."
