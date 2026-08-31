@@ -4,7 +4,7 @@ Comparing OLS, gradient boosting, logistic regression, and CatBoost across two a
 
 **Melissa Ballesteros** · QSS 45, Dartmouth College
 
-### 🔗 [**View the interactive write-up →**](https://melissabllstrs12.github.io/QSS45_final_project/)
+### 🔗 [**View the interactive write-up →**](https://qss45maternalmorbidity.netlify.app/)
 
 Every figure below is interactive on the site — including the SHAP summary plots, where you can hover any point for its category and click to trace one group across the whole distribution.
 
