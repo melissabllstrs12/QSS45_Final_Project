@@ -2,7 +2,7 @@
 
 Comparing OLS, gradient boosting, logistic regression, and CatBoost across two analytical scales, using CDC WONDER natality data (2023 – mid-2026).
 
-**Melissa Ballesteros** · QSS 45, Dartmouth College · [Read the full paper (PDF)](paper/QSS45_Final_Project_Paper.pdf)
+**Melissa Ballesteros** · QSS 45, Dartmouth College 
 
 ---
 
