@@ -179,7 +179,7 @@ Five states spanning different regions — California, New Hampshire, Alabama, N
 ## Reproducing the analysis
 
 ```bash
-git clone https://github.com/<your-username>/maternal-morbidity-sdoh.git
+git clone https://github.com/melissabllstrs12/maternal-morbidity-sdoh.git
 cd maternal-morbidity-sdoh
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
