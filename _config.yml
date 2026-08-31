@@ -1,0 +1,10 @@
+title: Which Social Determinants Best Predict Maternal Morbidity in the United States?
+description: >-
+  OLS, gradient boosting, logistic regression, and CatBoost applied to CDC WONDER
+  natality data (2023 – mid-2026). QSS 45, Dartmouth College.
+theme: jekyll-theme-cayman
+show_downloads: false
+exclude:
+  - data/
+  - notebooks/
+  - .gitignore

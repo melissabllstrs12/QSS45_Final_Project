@@ -2,7 +2,7 @@
 
 Comparing OLS, gradient boosting, logistic regression, and CatBoost across two analytical scales, using CDC WONDER natality data (2023 – mid-2026).
 
-**Melissa Ballesteros** · QSS 45, Dartmouth College 
+**Melissa Ballesteros** · QSS 45, Dartmouth College
 
 ---
 
@@ -49,7 +49,7 @@ CDC WONDER caps each query at five grouping variables, so the data were pulled i
 
 **Dependent variable — `Maternal Morbidity Checked`:** an indicator that the birth certificate recorded at least one of five severe complications: ICU admission, transfusion, perineal laceration, unplanned hysterectomy, or uterine rupture.
 
-> [!IMPORTANT]
+> **⚠️ Important — this outcome is documentation-based.**
 > This is a **documentation-based** measure, not a direct clinical measurement. It reflects whether a complication was *recorded on the birth certificate*, so differences across states and hospitals may partly reflect documentation and reporting practice rather than underlying risk. Every result below should be read with that caveat in mind.
 
 Both queries were also collapsed to the state level and merged into a 51-row dataset (50 states + D.C.) with 11 composite predictors covering race, ethnicity, age, education, payment source, and urbanicity.
@@ -67,9 +67,7 @@ Both queries were also collapsed to the state level and merged into a 51-row dat
 │   ├── raw/          # Unmodified CDC WONDER query exports
 │   ├── processed/    # Cleaned per-state extracts and merged five-state file
 │   └── results/      # Model output: logistic and per-state OLS coefficient tables
-├── figures/          # Figures 1–11 as they appear in the paper
-├── paper/            # Full write-up (PDF)
-└── requirements.txt
+└── figures/          # Figures 1–11 as they appear in the paper
 ```
 
 ---
@@ -138,7 +136,7 @@ Across 14,561 demographic combinations, **mother's race** was the most influenti
 
 *Figure 6 — Query 1 logistic regression coefficients, 15 strongest predictors, with 95% CIs.*
 
-> [!NOTE]
+> **📝 Note on interpretation.**
 > Births in the White category showed the highest predicted probability of *documented* morbidity relative to the reference group. Given the documentation caveat above, this is a statistical and predictive relationship — not evidence that race biologically causes maternal morbidity.
 
 ### 6. In Query 2, Hispanic origin leads — with a weaker signal
@@ -171,7 +169,7 @@ Because the two queries were modeled separately, race leading in Query 1 and His
 
 Five states spanning different regions — California, New Hampshire, Alabama, Nebraska, Texas — were modeled separately. Documented morbidity rates differ across them (New Hampshire highest of the five), and some determinants hold a consistent direction across states while others vary substantially. The point is not to rank states, but to show that maternal morbidity is not distributed uniformly.
 
-> [!WARNING]
+> **⚠️ Small-sample caution.**
 > The Query 2 per-state estimates rest on roughly 34–49 rows per state and should be interpreted with caution.
 
 ---
@@ -182,11 +180,13 @@ Five states spanning different regions — California, New Hampshire, Alabama, N
 git clone https://github.com/melissabllstrs12/maternal-morbidity-sdoh.git
 cd maternal-morbidity-sdoh
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
+pip install pandas numpy scikit-learn catboost shap matplotlib plotly statsmodels jupyter
 jupyter lab
 ```
 
 Run `notebooks/01_main_analysis.ipynb` first, then `notebooks/02_state_stratified_analysis.ipynb`. Notebook paths are relative to the `notebooks/` directory, so run them from there. CatBoost writes a `catboost_info/` training log, which is gitignored.
+
+Results in this repo were produced with pandas 2.3.3, numpy 2.3.5, scikit-learn 1.8.0, CatBoost 1.2.10, SHAP 0.52.0, matplotlib 3.10.8, plotly 6.5.2, and statsmodels 0.14.6.
 
 ---
 
@@ -213,6 +213,6 @@ Maternal morbidity is best understood as the product of **interconnected social 
 2. Link, B. G., & Phelan, J. (1995). Social Conditions as Fundamental Causes of Disease. *Journal of Health and Social Behavior*, 35, 80–94. <https://doi.org/10.2307/2626958>
 3. Gunja, M. Z., Gumas, E. D., & Williams II, R. D. (2026). U.S. Health Care from a Global Perspective, 2026: Expanded Edition. *The Commonwealth Fund*. <https://doi.org/10.26099/2egm-8b76>
 
-## License
+## Data use
 
-Code released under the [MIT License](LICENSE). Underlying natality data are public-domain CDC WONDER exports, subject to the [CDC WONDER data use restrictions](https://wonder.cdc.gov/datause.html).
+Underlying natality data are public-domain CDC WONDER exports, subject to the [CDC WONDER data use restrictions](https://wonder.cdc.gov/datause.html).
