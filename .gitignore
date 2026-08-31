@@ -16,3 +16,7 @@ env/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Site build output
+site/node_modules/
+site/dist/
